@@ -16,5 +16,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "integerfield",
+    "fieldId": "integerfield",
+    "modelId": "123123",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
