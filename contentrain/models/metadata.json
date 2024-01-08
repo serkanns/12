@@ -19,5 +19,11 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "modelwithname",
+    "modelId": "123123",
+    "localization": false,
+    "type": "JSON"
   }
 ]
