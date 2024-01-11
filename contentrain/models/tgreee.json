@@ -1,0 +1,39 @@
+[
+  {
+    "componentId": "single-line-text",
+    "fieldId": "id",
+    "modelId": "tgreee",
+    "name": "ID",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "h6adg3b4s9"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "rwqd",
+    "modelId": "tgreee",
+    "name": "rwqd",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "123"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "h6adg3b4s9"
+  }
+]
