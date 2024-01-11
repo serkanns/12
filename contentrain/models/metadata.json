@@ -71,5 +71,11 @@
     "modelId": "doit",
     "localization": false,
     "type": "JSON"
+  },
+  {
+    "name": "iwant more",
+    "modelId": "iwant-more",
+    "localization": true,
+    "type": "JSON"
   }
 ]
