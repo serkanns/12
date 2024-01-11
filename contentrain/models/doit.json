@@ -1,0 +1,31 @@
+[
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123",
+    "modelId": "doit",
+    "name": "123",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string",
+    "projectId": "h6adg3b4s9"
+  },
+  {
+    "componentId": "integer",
+    "fieldId": "integerfield",
+    "modelId": "doit",
+    "name": "integerfield",
+    "options": {},
+    "validations": {},
+    "fieldType": "number",
+    "projectId": "h6adg3b4s9"
+  }
+]
