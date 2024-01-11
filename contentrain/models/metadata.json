@@ -65,5 +65,11 @@
     "modelId": "gangsta22",
     "localization": false,
     "type": "JSON"
+  },
+  {
+    "name": "doit",
+    "modelId": "doit",
+    "localization": false,
+    "type": "JSON"
   }
 ]
