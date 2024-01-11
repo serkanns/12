@@ -1,0 +1,37 @@
+[
+  {
+    "componentId": "single-line-text",
+    "fieldId": "id",
+    "modelId": "test-model",
+    "name": "ID",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "rwqd",
+    "modelId": "test-model",
+    "name": "rwqd",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "123"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
+  }
+]
