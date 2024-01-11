@@ -39,5 +39,12 @@
     "modelId": "test111",
     "localization": true,
     "type": "JSON"
+  },
+  {
+    "name": "wqwe test-123",
+    "modelId": "wqwe-test-123",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
