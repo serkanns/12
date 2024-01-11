@@ -76,5 +76,22 @@
         }
       }
     }
+  },
+  {
+    "name": "123-1-1-1",
+    "fieldId": "123-1-1-1",
+    "modelId": "123123",
+    "componentId": "single-line-text",
+    "validations": {},
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    }
   }
 ]
