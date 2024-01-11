@@ -25,5 +25,13 @@
     "modelId": "123123",
     "localization": false,
     "type": "JSON"
+  },
+  {
+    "name": "test modeldsawqe",
+    "description": "wqwe",
+    "modelId": "test-modeldsawqe",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
