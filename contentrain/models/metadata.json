@@ -96,5 +96,12 @@
     "modelId": "one",
     "localization": false,
     "type": "JSON"
+  },
+  {
+    "name": "two",
+    "modelId": "two",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "community"
   }
 ]
