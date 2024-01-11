@@ -104,5 +104,13 @@
     "type": "JSON",
     "createdBy": "community",
     "description": "efrw"
+  },
+  {
+    "name": "tgreee",
+    "description": "descripotipm",
+    "modelId": "tgreee",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "community"
   }
 ]
