@@ -59,5 +59,11 @@
     "modelId": "gangsta",
     "localization": true,
     "type": "JSON"
+  },
+  {
+    "name": "gangsta22",
+    "modelId": "gangsta22",
+    "localization": false,
+    "type": "JSON"
   }
 ]
