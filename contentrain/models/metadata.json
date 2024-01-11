@@ -83,5 +83,12 @@
     "modelId": "test-modeldsa",
     "localization": true,
     "type": "JSON"
+  },
+  {
+    "name": "cfdsfwqe",
+    "modelId": "cfdsfwqe",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
