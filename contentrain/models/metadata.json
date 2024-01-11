@@ -90,5 +90,11 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "one",
+    "modelId": "one",
+    "localization": false,
+    "type": "JSON"
   }
 ]
