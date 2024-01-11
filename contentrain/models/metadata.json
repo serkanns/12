@@ -77,5 +77,11 @@
     "modelId": "iwant-more",
     "localization": true,
     "type": "JSON"
+  },
+  {
+    "name": "test modeldsa",
+    "modelId": "test-modeldsa",
+    "localization": true,
+    "type": "JSON"
   }
 ]
