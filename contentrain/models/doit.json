@@ -44,5 +44,13 @@
         }
       }
     }
+  },
+  {
+    "name": "integerfield-1",
+    "fieldId": "integerfield-1",
+    "modelId": "doit",
+    "componentId": "integer",
+    "validations": {},
+    "options": {}
   }
 ]
