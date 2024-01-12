@@ -112,5 +112,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "community"
+  },
+  {
+    "name": "modelwithnamedeqw",
+    "modelId": "modelwithnamedeqw",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "saved"
   }
 ]
