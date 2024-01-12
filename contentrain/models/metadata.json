@@ -126,5 +126,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "saved"
+  },
+  {
+    "name": "testolodddd",
+    "modelId": "testolodddd",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "saved"
   }
 ]
