@@ -1,0 +1,30 @@
+[
+  {
+    "componentId": "slug",
+    "fieldId": "slug",
+    "modelId": "fix2wr",
+    "name": "slug",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "h6adg3b4s9"
+  },
+  {
+    "componentId": "md-editor",
+    "fieldId": "content",
+    "modelId": "fix2wr",
+    "name": "content",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "h6adg3b4s9"
+  }
+]
