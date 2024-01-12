@@ -154,5 +154,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "saved"
+  },
+  {
+    "name": "fix",
+    "modelId": "fix",
+    "localization": true,
+    "type": "MDX",
+    "createdBy": "user"
   }
 ]
