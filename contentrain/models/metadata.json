@@ -119,5 +119,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "saved"
+  },
+  {
+    "name": "dzmodelwithnamefields",
+    "modelId": "dzmodelwithnamefields",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "saved"
   }
 ]
