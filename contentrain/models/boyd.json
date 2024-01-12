@@ -1,0 +1,114 @@
+[
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123",
+    "modelId": "123123",
+    "name": "123",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
+  },
+  {
+    "componentId": "integer",
+    "fieldId": "integerfield",
+    "modelId": "123123",
+    "name": "integerfield",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123-1",
+    "modelId": "123123",
+    "name": "123-1",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {}
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123-2",
+    "modelId": "123123",
+    "name": "123-2",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {}
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123-1-1",
+    "modelId": "123123",
+    "name": "123-1-1",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {}
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123-1-1-1",
+    "modelId": "123123",
+    "name": "123-1-1-1",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {}
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "123-1-3",
+    "modelId": "123123",
+    "name": "123-1-3",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "12"
+          }
+        }
+      }
+    },
+    "validations": {}
+  }
+]
