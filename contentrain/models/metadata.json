@@ -133,5 +133,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "saved"
+  },
+  {
+    "name": "LAST",
+    "modelId": "last",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "saved"
   }
 ]
