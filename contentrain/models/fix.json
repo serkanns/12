@@ -1,0 +1,30 @@
+[
+  {
+    "name": "slug",
+    "fieldId": "slug",
+    "componentId": "slug",
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "options": {},
+    "fieldType": "string",
+    "system": true,
+    "modelId": "fix"
+  },
+  {
+    "name": "content",
+    "fieldId": "content",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "system": true,
+    "modelId": "fix"
+  }
+]
