@@ -168,5 +168,12 @@
     "localization": true,
     "type": "MD",
     "createdBy": "saved"
+  },
+  {
+    "name": "fix2wr",
+    "modelId": "fix2wr",
+    "localization": true,
+    "type": "MD",
+    "createdBy": "community"
   }
 ]
