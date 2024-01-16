@@ -74,7 +74,7 @@
   {
     "name": "cfdsfwqe",
     "modelId": "cfdsfwqe",
-    "localization": true,
+    "localization": false,
     "type": "JSON",
     "createdBy": "user"
   },
