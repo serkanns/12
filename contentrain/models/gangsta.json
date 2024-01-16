@@ -33,5 +33,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "ijhoij",
+    "fieldId": "ijhoij",
+    "modelId": "gangsta",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
