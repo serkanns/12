@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "1edw",
+    "fieldId": "1edw",
+    "modelId": "cfdsfwqe",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "doit"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
+  }
+]
