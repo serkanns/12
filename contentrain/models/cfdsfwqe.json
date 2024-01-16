@@ -25,5 +25,23 @@
     "options": {},
     "validations": {},
     "fieldType": "media"
+  },
+  {
+    "name": "many",
+    "fieldId": "many",
+    "modelId": "cfdsfwqe",
+    "componentId": "one-to-many",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "doit"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
