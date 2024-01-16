@@ -1,0 +1,22 @@
+[
+  {
+    "123": "12",
+    "ID": "08f45a403e42",
+    "createdAt": "Tue Jan 16 2024 14:22:57 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-01-16T12:52:03.291Z",
+    "integerfield": 23,
+    "123-1": "12",
+    "integerfield-1": 123,
+    "status": "draft"
+  },
+  {
+    "123": "qwe",
+    "ID": "33522b3d03a5",
+    "createdAt": "Tue Jan 16 2024 14:23:10 GMT+0300 (GMT+03:00)",
+    "updatedAt": "2024-01-16T12:52:03.312Z",
+    "integerfield": 1,
+    "123-1": "2",
+    "integerfield-1": 23,
+    "status": "draft"
+  }
+]
