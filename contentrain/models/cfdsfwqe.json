@@ -41,7 +41,11 @@
         }
       }
     },
-    "validations": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
     "fieldType": "relation"
   }
 ]
