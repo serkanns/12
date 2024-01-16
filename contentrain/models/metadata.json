@@ -155,5 +155,13 @@
     "localization": true,
     "type": "MD",
     "createdBy": "community"
+  },
+  {
+    "name": "doit",
+    "modelId": "doit-1",
+    "localization": false,
+    "type": "JSON",
+    "projectId": "h6adg3b4s9",
+    "id": "doit"
   }
 ]
