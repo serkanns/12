@@ -44,8 +44,9 @@
   {
     "name": "gangsta",
     "modelId": "gangsta",
-    "localization": true,
-    "type": "JSON"
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   },
   {
     "name": "gangsta22",
