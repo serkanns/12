@@ -21,12 +21,6 @@
     "createdBy": "user"
   },
   {
-    "name": "modelwithname",
-    "modelId": "123123",
-    "localization": false,
-    "type": "JSON"
-  },
-  {
     "name": "test modeldsawqe",
     "description": "wqwe",
     "modelId": "test-modeldsawqe",
