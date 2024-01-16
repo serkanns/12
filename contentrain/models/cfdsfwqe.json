@@ -16,5 +16,14 @@
     },
     "validations": {},
     "fieldType": "relation"
+  },
+  {
+    "name": "sdasda",
+    "fieldId": "sdasda",
+    "modelId": "cfdsfwqe",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
