@@ -42,13 +42,6 @@
     "createdBy": "user"
   },
   {
-    "name": "modelwithname123321dsf",
-    "modelId": "modelwithname123321dsf",
-    "localization": false,
-    "type": "JSON",
-    "createdBy": "user"
-  },
-  {
     "name": "gangsta",
     "modelId": "gangsta",
     "localization": true,
