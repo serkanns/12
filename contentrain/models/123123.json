@@ -110,5 +110,23 @@
       }
     },
     "validations": {}
+  },
+  {
+    "name": "1321ed",
+    "fieldId": "1321ed",
+    "modelId": "123123",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "123123"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
