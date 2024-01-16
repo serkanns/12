@@ -110,15 +110,5 @@
       }
     },
     "validations": {}
-  },
-  {
-    "name": "123w",
-    "description": "23",
-    "fieldId": "123w",
-    "modelId": "123123",
-    "componentId": "one-to-one",
-    "options": {},
-    "validations": {},
-    "fieldType": "relation"
   }
 ]
