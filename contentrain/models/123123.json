@@ -110,5 +110,14 @@
       }
     },
     "validations": {}
+  },
+  {
+    "name": "123wqeewq",
+    "fieldId": "123wqeewq",
+    "modelId": "123123",
+    "componentId": "one-to-one",
+    "options": {},
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
