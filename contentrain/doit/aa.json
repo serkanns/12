@@ -18,5 +18,14 @@
     "123-1": "12",
     "integerfield-1": 23,
     "status": "publish"
+  },
+  {
+    "123": "12",
+    "ID": "e5a904195f3f",
+    "createdAt": "Wed Jan 17 2024 23:04:52 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Jan 17 2024 23:04:52 GMT+0300 (GMT+03:00)",
+    "integerfield": 213,
+    "123-1": "12",
+    "status": "publish"
   }
 ]
