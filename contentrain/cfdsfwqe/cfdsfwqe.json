@@ -2,8 +2,8 @@
   {
     "ID": "66b21422c15e",
     "createdAt": "2024-01-16T12:59:52.000Z",
-    "updatedAt": "2024-01-18T14:21:23.120Z",
-    "status": "draft",
+    "updatedAt": "2024-01-18T14:21:25.547Z",
+    "status": "publish",
     "1edw": "7203b26d78f5",
     "many": [
       "7203b26d78f5",
@@ -13,7 +13,7 @@
   {
     "ID": "8ecef4444736",
     "createdAt": "Wed Jan 17 2024 11:31:28 GMT+0300 (GMT+03:00)",
-    "updatedAt": "2024-01-18T14:21:23.134Z",
+    "updatedAt": "2024-01-18T14:21:25.559Z",
     "1edw": "afa75ef3699e",
     "sdasda": "public/assets/1.png",
     "many": [
@@ -24,13 +24,13 @@
       "3502c429ad30",
       "36b9276d3dd9"
     ],
-    "status": "draft"
+    "status": "publish"
   },
   {
     "ID": "dad206acada2",
     "createdAt": "2024-01-17T08:29:57.000Z",
-    "updatedAt": "2024-01-18T14:21:23.152Z",
-    "status": "draft",
+    "updatedAt": "2024-01-18T14:21:25.576Z",
+    "status": "publish",
     "1edw": "93ec53eb0d08",
     "many": [
       "afa75ef3699e",
