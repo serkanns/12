@@ -7,5 +7,4 @@ status: "publish"
 path: "contentrain/Alert"
 
 ---
-### wqeqweqwe
-qweqwe
+undefined
