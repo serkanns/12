@@ -7,9 +7,4 @@ status: "publish"
 path: "contentrain/Alert"
 
 ---
-### test123123
-
-```
-qweqweqweqeqwe
-qweqweqwe
-```
+undefined
