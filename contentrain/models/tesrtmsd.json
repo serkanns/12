@@ -88,5 +88,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "tesrtmsd"
+  },
+  {
+    "name": "qwewqe",
+    "fieldId": "qwewqe",
+    "modelId": "tesrtmsd",
+    "componentId": "single-line-text",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "13"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
