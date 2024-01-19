@@ -32,6 +32,15 @@
     "path": "contentrain/Alert"
   },
   {
+    "ID": "a294937c6fa1",
+    "createdAt": "Fri Jan 19 2024 15:49:10 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Jan 19 2024 15:49:10 GMT+0300 (GMT+03:00)",
+    "slug": "123123",
+    "content": "123312",
+    "status": "publish",
+    "path": "contentrain/Alert"
+  },
+  {
     "ID": "f1cc90529243",
     "createdAt": "Fri Jan 19 2024 15:28:01 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:28:01 GMT+0300 (GMT+03:00)",
