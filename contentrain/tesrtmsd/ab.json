@@ -4,7 +4,6 @@
     "createdAt": "Fri Jan 19 2024 15:09:28 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:09:28 GMT+0300 (GMT+03:00)",
     "slug": "324",
-    "content": "qweqweqwe",
     "status": "publish",
     "path": "_posts"
   },
@@ -13,7 +12,6 @@
     "createdAt": "Fri Jan 19 2024 15:43:46 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:43:46 GMT+0300 (GMT+03:00)",
     "slug": "q2e",
-    "content": "322344qwe",
     "status": "publish",
     "path": "contentrain/Alert"
   },
@@ -22,7 +20,14 @@
     "createdAt": "Fri Jan 19 2024 15:37:51 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:37:51 GMT+0300 (GMT+03:00)",
     "slug": "qwe",
-    "content": "322344",
+    "status": "publish",
+    "path": "contentrain/Alert"
+  },
+  {
+    "ID": "7c19d55ce684",
+    "createdAt": "Fri Jan 19 2024 15:46:51 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Jan 19 2024 15:46:51 GMT+0300 (GMT+03:00)",
+    "slug": "123123",
     "status": "publish",
     "path": "contentrain/Alert"
   },
@@ -31,7 +36,6 @@
     "createdAt": "Fri Jan 19 2024 15:28:01 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:28:01 GMT+0300 (GMT+03:00)",
     "slug": "1332",
-    "content": "123123123",
     "status": "publish",
     "path": "lib"
   }
