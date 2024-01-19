@@ -5,5 +5,13 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "tesrtmsd",
+    "modelId": "tesrtmsd",
+    "path": "contentrain/_posts",
+    "localization": true,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
