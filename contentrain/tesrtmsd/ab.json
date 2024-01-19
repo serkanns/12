@@ -28,7 +28,14 @@
     "createdAt": "Fri Jan 19 2024 15:50:50 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:50:50 GMT+0300 (GMT+03:00)",
     "slug": "qweqwe",
-    "content": "wqeqweqew",
+    "status": "publish",
+    "path": "contentrain"
+  },
+  {
+    "ID": "6803bd106640",
+    "createdAt": "Fri Jan 19 2024 15:56:30 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Jan 19 2024 15:56:30 GMT+0300 (GMT+03:00)",
+    "slug": "save",
     "status": "publish",
     "path": "contentrain"
   },
@@ -45,7 +52,6 @@
     "createdAt": "Fri Jan 19 2024 15:49:10 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:49:10 GMT+0300 (GMT+03:00)",
     "slug": "123123",
-    "content": "123312",
     "status": "publish",
     "path": "contentrain/Alert"
   },
@@ -54,7 +60,6 @@
     "createdAt": "Fri Jan 19 2024 15:51:11 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:51:11 GMT+0300 (GMT+03:00)",
     "slug": "again",
-    "content": "wqeqweqewj",
     "status": "publish",
     "path": "contentrain"
   },
@@ -63,7 +68,6 @@
     "createdAt": "Fri Jan 19 2024 15:54:36 GMT+0300 (GMT+03:00)",
     "updatedAt": "Fri Jan 19 2024 15:54:36 GMT+0300 (GMT+03:00)",
     "slug": "eswfrewr",
-    "content": "324234",
     "status": "publish",
     "path": "contentrain"
   },
