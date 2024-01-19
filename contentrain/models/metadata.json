@@ -9,7 +9,7 @@
   {
     "name": "tesrtmsd",
     "modelId": "tesrtmsd",
-    "path": "contentrain/_posts",
+    "path": "contentrain/Alert",
     "localization": true,
     "type": "MD",
     "createdBy": "user"
